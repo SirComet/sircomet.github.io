@@ -1,4 +1,4 @@
-sircomet.github.io
+SirComet.github.io
 ====================
 
 # Hello world!
