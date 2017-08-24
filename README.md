@@ -1,7 +1,7 @@
 sircomet.github.io
 ====================
 
-## Hello world!
+# Hello world!
 
 This is my first try at github!
 
